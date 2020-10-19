@@ -11,6 +11,11 @@ As described, a testing place for different text summarization tools.
 ![workflow](workflow.png)
 Here's a workflow I created for the complete task. Put it simple, we were asked t complete the task of generating automated summarzations from the Credera weekly updates videos. The videos are on Microsoft Stream, and ultimately we need to generate summarized texts for each video.
 
+For now, we will be focusing on the 3rd part of the workflow, namely, the text summarization.
+
+- **What are the notebooks about?**
+
+They includes different approaches for text summarization. In the following part, I will give simple introductions of each methods.
 
 ------------------------------
 
