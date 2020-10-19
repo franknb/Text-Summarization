@@ -2,11 +2,11 @@
 
 ### Before anything: 
 
-**What is this?**
+- **What is this?**
 
 As described, a testing place for different text summarization tools.
 
-**What is the background?**
+- **What is the background?**
 
 ![workflow](workflow.png)
 Here's a workflow I created for the complete task. Put it simple, we were asked t complete the task of generating automated summarzations from the Credera weekly updates videos. The videos are on Microsoft Stream, and ultimately we need to generate summarized texts for each video.
